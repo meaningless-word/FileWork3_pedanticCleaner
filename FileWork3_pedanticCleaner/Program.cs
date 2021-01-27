@@ -14,7 +14,7 @@ namespace FileWork3_pedanticCleaner
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Необходимо указать путь к рабочей папке.");
-			Console.WriteLine("При вводе пустой строки будет исползьоваться папка Testing на рабочем столе");
+			Console.WriteLine("При вводе пустой строки будет использоваться папка Testing на рабочем столе");
 			Console.Write(": ");
 			string workPath = Console.ReadLine();
 
